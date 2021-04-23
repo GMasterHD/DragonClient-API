@@ -2,6 +2,6 @@
 	"1.8.9": {
 		"patch": "https://raw.githubusercontent.com/GMasterHD/DragonClient-API/main/1.8.9.patch",
 		"vanilla": "https://launcher.mojang.com/v1/objects/3870888a6c3d349d3771a3e9d16c9bf5e076b908/client.jar",
-		"lastUpdate": 1619221158937
+		"lastUpdate": 1619221612054
 	}
 }
