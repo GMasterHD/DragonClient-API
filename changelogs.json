@@ -1,31 +1,15 @@
 {
 	"changelogs": [
 		{
-			"title": "1.0.3",
+			"title": "SnapShot 21w16a",
 			"changelogs": [
-				"Added keystrokes mod",
-				"Added Waypoint options",
-				"Fixed a bug in toggle sneak/sprint"
+				"Added Keystrokes",
+				"Added Speed Display",
+				"Added Toggle Sneak/Sprint",
+				"Added Positions Mod",
+				"Added Inventory Blur"
 			],
-			"page": "https://gmasterhd.github.io/v4/"
-		},
-		{
-			"title": "1.0.2",
-			"changelogs": [
-				"Added Minimap mod",
-				"Added Coordiantes mod"
-			],
-			"page": "https://gmasterhd.github.io/v3/"
-		},
-		{
-			"title": "1.0.1",
-			"changelogs": [
-				"Added Speed mod",
-				"Added custom splash screen",
-				"Added custom main menu screen",
-				"Added option for optifine"
-			],
-			"page": "https://gmasterhd.github.io/v2/"
+			"page": "https://gmasterhd.github.io/"
 		}
 	]
 }
