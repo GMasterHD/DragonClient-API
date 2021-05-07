@@ -1,13 +1,20 @@
 {
 	"changelogs": [
 		{
-			"title": "SnapShot 21w16a",
+			"title": "SnapShot 21w18a",
 			"changelogs": [
+				"Added Speed Display",
+				"Added Ping Dispaly",
+				"Added Mod Config Screen (Unfinished)",
+				"Added Scrollable Tooltips",
 				"Added Keystrokes",
 				"Added Speed Display",
 				"Added Toggle Sneak/Sprint",
 				"Added Positions Mod",
-				"Added Inventory Blur"
+				"Added Inventory Blur",
+				"Added scrollable tooltips",
+				"Added Ping Display Mod",
+				"Added Mod Config Screen"
 			],
 			"page": "https://gmasterhd.github.io/"
 		}
